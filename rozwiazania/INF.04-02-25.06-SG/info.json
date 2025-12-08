@@ -1,0 +1,41 @@
+{
+    "name": "INF.04-02-25.06-SG",
+    "year": 2025,
+    "month": 6,
+    "exercise": 2,
+    "coreYear": 2019,
+    "version": "SG",
+    "examFileName": "Arkusz INF.04-02-25.06-SG.pdf",
+    "tasks": [
+        {
+            "shortname": "Szyfr Cezara",
+            "type": "console",
+            "solveStatus": {
+                "python": true,
+                "c#": true,
+                "c++": false,
+                "java": false
+            }
+        },
+        {
+            "shortname": "Szyfr Cezara",
+            "type": "desktop",
+            "solveStatus": {
+                "python": false,
+                "c#": false,
+                "c++": false,
+                "java": false
+            }
+        },
+        {
+            "shortname": "Test jednostkowy szyfru cezara",
+            "type": "test",
+            "solveStatus": {
+                "python": false,
+                "c#": false,
+                "c++": false,
+                "java": false
+            }
+        }
+    ]
+}
