@@ -1,9 +1,8 @@
 {
-    "name": "INF.04-02-25.06-SG",
     "year": 2025,
     "month": 6,
     "exercise": 2,
-    "coreYear": 2019,
+    "core": "INF.04",
     "version": "SG",
     "examFileName": "Arkusz INF.04-02-25.06-SG.pdf",
     "tasks": [
@@ -15,7 +14,8 @@
                 "c#": true,
                 "c++": false,
                 "java": false
-            }
+            },
+            "difficulty": "medium"
         },
         {
             "shortname": "Szyfr Cezara",
@@ -25,7 +25,8 @@
                 "c#": false,
                 "c++": false,
                 "java": false
-            }
+            },
+            "difficulty": "medium"
         },
         {
             "shortname": "Test jednostkowy szyfru cezara",
@@ -35,7 +36,8 @@
                 "c#": false,
                 "c++": false,
                 "java": false
-            }
+            },
+            "difficulty": "hard"
         }
     ]
 }
