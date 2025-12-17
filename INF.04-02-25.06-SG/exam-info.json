@@ -1,19 +1,16 @@
 {
     "tasks": [
         {
-            "shortname": "Szyfr Cezara",
-            "type": "console",
-            "difficulty": "medium"
+            "title": "Szyfr Cezara",
+            "type": "console"
         },
         {
-            "shortname": "Szyfr Cezara",
-            "type": "desktop",
-            "difficulty": "medium"
+            "title": "Szyfr Cezara",
+            "type": "desktop"
         },
         {
-            "shortname": "Test jednostkowy szyfru cezara",
-            "type": "test",
-            "difficulty": "hard"
+            "title": "Test jednostkowy szyfru cezara",
+            "type": "test"
         }
     ]
 }
