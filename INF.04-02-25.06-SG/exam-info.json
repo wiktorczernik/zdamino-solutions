@@ -1,42 +1,18 @@
 {
-    "qualification": "INF.04",
-    "year": 2025,
-    "month": 6,
-    "exercise": 2,
-    "version": "SG",
-    "hasAttachment": false,
     "tasks": [
         {
             "shortname": "Szyfr Cezara",
             "type": "console",
-            "solveStatus": {
-                "python": true,
-                "csharp": true,
-                "cplusplus": false,
-                "java": false
-            },
             "difficulty": "medium"
         },
         {
             "shortname": "Szyfr Cezara",
             "type": "desktop",
-            "solveStatus": {
-                "python": false,
-                "csharp": false,
-                "cplusplus": false,
-                "java": false
-            },
             "difficulty": "medium"
         },
         {
             "shortname": "Test jednostkowy szyfru cezara",
             "type": "test",
-            "solveStatus": {
-                "python": false,
-                "csharp": false,
-                "cplusplus": false,
-                "java": false
-            },
             "difficulty": "hard"
         }
     ]
