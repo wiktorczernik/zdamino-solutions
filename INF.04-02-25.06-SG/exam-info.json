@@ -1,18 +1,18 @@
 {
+    "qualification": "INF.04",
     "year": 2025,
     "month": 6,
     "exercise": 2,
-    "core": "INF.04",
     "version": "SG",
-    "examFileName": "Arkusz INF.04-02-25.06-SG.pdf",
+    "hasAttachment": false,
     "tasks": [
         {
             "shortname": "Szyfr Cezara",
             "type": "console",
             "solveStatus": {
                 "python": true,
-                "c#": true,
-                "c++": false,
+                "csharp": true,
+                "cplusplus": false,
                 "java": false
             },
             "difficulty": "medium"
@@ -22,8 +22,8 @@
             "type": "desktop",
             "solveStatus": {
                 "python": false,
-                "c#": false,
-                "c++": false,
+                "csharp": false,
+                "cplusplus": false,
                 "java": false
             },
             "difficulty": "medium"
@@ -33,8 +33,8 @@
             "type": "test",
             "solveStatus": {
                 "python": false,
-                "c#": false,
-                "c++": false,
+                "csharp": false,
+                "cplusplus": false,
                 "java": false
             },
             "difficulty": "hard"
